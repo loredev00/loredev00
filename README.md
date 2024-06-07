@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hola, soy Lore 👋
+## Aficiones
+- 📚 **Lectura**
+- 🎮 **Videojuegos**
+- 💻 **Tecnología**
+- 🍙 **Fan de la cultura japonesa**
 <!--
 **loredev00/loredev00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
